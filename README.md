@@ -1,3 +1,2 @@
 # My fisrt  repository
-## This is my first repository on GitHubGOigid 
-## qkoo
+## This is my first repository on GitHubGOigid git 
